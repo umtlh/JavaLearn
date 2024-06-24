@@ -65,19 +65,19 @@ public class Main {
 //
 //
 //
-//        int op = 3;
-//        switch (op) {
-//            case 1:
-//                System.out.println("İşlem 1 ");
-//                break;
-//            case 2:
-//                System.out.println("İşlem 2 ");
-//                break;
-//            case 3:
-//                System.out.println("İşlem 3 ");
-//                break;
-//            default:
-//                System.out.println("Geçersiz İşlem.");
+        int op = 3;
+        switch (op) {
+            case 1:
+                System.out.println("İşlem 1 ");
+                break;
+            case 2:
+                System.out.println("İşlem 2 ");
+                break;
+            case 3:
+                System.out.println("İşlem 3 ");
+                break;
+            default:
+                System.out.println("Geçersiz İşlem.");
 //        int i = 0;
 //        while (i<10) {
 //            System.out.println("i'nin değeri:"+i );
@@ -86,7 +86,7 @@ public class Main {
 //        for (int i=0;i<10;i+=2){
 //               System.out.println("i'nin değeri "+i );
 //        }
-//    int i = 0;                                                  i değişkenini 0 olarak başlatır.
+//          int i = 0;                                                  i değişkenini 0 olarak başlatır. */
 //    while (true){                                                Sonsuz bir döngüye girer (while (true)).
 //           System.out.println("i'nin değeri "+ i);               Döngü içinde i değişkeninin değerini ekrana yazdırır.
 //           if (i ==5){                                           i 5'e eşit olduğunda, "Döngüden çıkılıyor" mesajını yazdırır ve döngüden çıkar.
@@ -94,8 +94,8 @@ public class Main {
 //               break;
 ////           }
 ////           i++;
-        
-    }
+
         }
 
-
+    }
+    }
